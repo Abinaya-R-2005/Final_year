@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+scikit-learn
+pymupdf
+python-multipart
+motor
+python-dotenv
+google-generativeai
