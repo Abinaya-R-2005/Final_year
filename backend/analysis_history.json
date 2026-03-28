@@ -1,5 +1,2503 @@
 [
     {
+        "text_preview": "Advanced AI models are transforming scientific research methods....",
+        "full_text": "Advanced AI models are transforming scientific research methods.",
+        "timestamp": "2026-03-26T22:29:36.065840",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.796,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 37.584710121154785
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 22.330820560455322
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 27.770626544952393
+                },
+                {
+                    "subject": "Physics",
+                    "A": 24.3371844291687
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 21.320104598999023
+                },
+                {
+                    "subject": "Economics",
+                    "A": 19.433462619781494
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 28.28925848007202
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "advanced",
+                    "importance": 0.6284878849983215
+                },
+                {
+                    "word": "scientific",
+                    "importance": 0.6003724336624146
+                },
+                {
+                    "word": "models",
+                    "importance": 0.5965067744255066
+                },
+                {
+                    "word": "transforming",
+                    "importance": 0.5830380916595459
+                },
+                {
+                    "word": "research",
+                    "importance": 0.5746387243270874
+                },
+                {
+                    "word": "methods",
+                    "importance": 0.5676770210266113
+                },
+                {
+                    "word": "are",
+                    "importance": 0.5335894227027893
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Biochemistry"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Physics"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Law & Social Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 88.8,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": true,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": "Contains standard academic section headers"
+            }
+        }
+    },
+    {
+        "text_preview": "Advanced AI models are transforming scientific research methods....",
+        "full_text": "Advanced AI models are transforming scientific research methods.",
+        "timestamp": "2026-03-26T22:28:49.325370",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.796,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 37.584710121154785
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 22.330820560455322
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 27.770626544952393
+                },
+                {
+                    "subject": "Physics",
+                    "A": 24.3371844291687
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 21.320104598999023
+                },
+                {
+                    "subject": "Economics",
+                    "A": 19.433462619781494
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 28.28925848007202
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "advanced",
+                    "importance": 0.6284878849983215
+                },
+                {
+                    "word": "scientific",
+                    "importance": 0.6003724336624146
+                },
+                {
+                    "word": "models",
+                    "importance": 0.5965067744255066
+                },
+                {
+                    "word": "transforming",
+                    "importance": 0.5830380916595459
+                },
+                {
+                    "word": "research",
+                    "importance": 0.5746387243270874
+                },
+                {
+                    "word": "methods",
+                    "importance": 0.5676770210266113
+                },
+                {
+                    "word": "are",
+                    "importance": 0.5335894227027893
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Biochemistry"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Physics"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Law & Social Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 88.8,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": true,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": "Contains standard academic section headers"
+            }
+        }
+    },
+    {
+        "text_preview": "Advanced AI models are transforming scientific research methods....",
+        "full_text": "Advanced AI models are transforming scientific research methods.",
+        "timestamp": "2026-03-26T22:28:28.473746",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.796,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 37.584710121154785
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 22.330820560455322
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 27.770626544952393
+                },
+                {
+                    "subject": "Physics",
+                    "A": 24.3371844291687
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 21.320104598999023
+                },
+                {
+                    "subject": "Economics",
+                    "A": 19.433462619781494
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 28.28925848007202
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "advanced",
+                    "importance": 0.6284878849983215
+                },
+                {
+                    "word": "scientific",
+                    "importance": 0.6003724336624146
+                },
+                {
+                    "word": "models",
+                    "importance": 0.5965067744255066
+                },
+                {
+                    "word": "transforming",
+                    "importance": 0.5830380916595459
+                },
+                {
+                    "word": "research",
+                    "importance": 0.5746387243270874
+                },
+                {
+                    "word": "methods",
+                    "importance": 0.5676770210266113
+                },
+                {
+                    "word": "are",
+                    "importance": 0.5335894227027893
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Biochemistry"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Physics"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Law & Social Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 88.8,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": true,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": "Contains standard academic section headers"
+            }
+        }
+    },
+    {
+        "text_preview": "Advanced AI models are transforming scientific research methods....",
+        "full_text": "Advanced AI models are transforming scientific research methods.",
+        "timestamp": "2026-03-26T22:26:37.964379",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.796,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 37.584710121154785
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 22.330820560455322
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 27.770626544952393
+                },
+                {
+                    "subject": "Physics",
+                    "A": 24.3371844291687
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 21.320104598999023
+                },
+                {
+                    "subject": "Economics",
+                    "A": 19.433462619781494
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 28.28925848007202
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "advanced",
+                    "importance": 0.6284878849983215
+                },
+                {
+                    "word": "scientific",
+                    "importance": 0.6003724336624146
+                },
+                {
+                    "word": "models",
+                    "importance": 0.5965067744255066
+                },
+                {
+                    "word": "transforming",
+                    "importance": 0.5830380916595459
+                },
+                {
+                    "word": "research",
+                    "importance": 0.5746387243270874
+                },
+                {
+                    "word": "methods",
+                    "importance": 0.5676770210266113
+                },
+                {
+                    "word": "are",
+                    "importance": 0.5335894227027893
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Biochemistry"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Physics"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Law & Social Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 88.8,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": true,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": "Contains standard academic section headers"
+            }
+        }
+    },
+    {
+        "text_preview": "Advanced AI models are transforming scientific research methods....",
+        "full_text": "Advanced AI models are transforming scientific research methods.",
+        "timestamp": "2026-03-26T22:25:52.061090",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.796,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 37.584710121154785
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 22.330820560455322
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 27.770626544952393
+                },
+                {
+                    "subject": "Physics",
+                    "A": 24.3371844291687
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 21.320104598999023
+                },
+                {
+                    "subject": "Economics",
+                    "A": 19.433462619781494
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 28.28925848007202
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "advanced",
+                    "importance": 0.6284878849983215
+                },
+                {
+                    "word": "scientific",
+                    "importance": 0.6003724336624146
+                },
+                {
+                    "word": "models",
+                    "importance": 0.5965067744255066
+                },
+                {
+                    "word": "transforming",
+                    "importance": 0.5830380916595459
+                },
+                {
+                    "word": "research",
+                    "importance": 0.5746387243270874
+                },
+                {
+                    "word": "methods",
+                    "importance": 0.5676770210266113
+                },
+                {
+                    "word": "are",
+                    "importance": 0.5335894227027893
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Biochemistry"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Physics"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Law & Social Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 88.8,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": true,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": "Contains standard academic section headers"
+            }
+        }
+    },
+    {
+        "text_preview": "cusses the impact of LLMs on medicine....",
+        "full_text": "cusses the impact of LLMs on medicine.",
+        "timestamp": "2026-03-26T22:07:48.686808",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.826,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 40.13168811798096
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 21.365606784820557
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 31.95672035217285
+                },
+                {
+                    "subject": "Physics",
+                    "A": 19.909954071044922
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 25.195753574371338
+                },
+                {
+                    "subject": "Economics",
+                    "A": 19.92288827896118
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 26.81800127029419
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "medicine",
+                    "importance": 0.6669009327888489
+                },
+                {
+                    "word": "ses",
+                    "importance": 0.5644452571868896
+                },
+                {
+                    "word": "impact",
+                    "importance": 0.5631273984909058
+                },
+                {
+                    "word": "the",
+                    "importance": 0.5378576517105103
+                },
+                {
+                    "word": "cus",
+                    "importance": 0.42264094948768616
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Biochemistry"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Environmental Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Law & Social Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Intermediate",
+                "score": 62.2,
+                "details": "Requires domain knowledge. Uses specialized methodology and advanced technical vocabulary."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": false,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": null
+            }
+        }
+    },
+    {
+        "text_preview": "This paper discusses the impact of LLMs on medicine....",
+        "full_text": "This paper discusses the impact of LLMs on medicine.",
+        "timestamp": "2026-03-26T22:06:10.779532",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.826,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 40.71910381317139
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 24.502134323120117
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 31.845831871032715
+                },
+                {
+                    "subject": "Physics",
+                    "A": 20.48276662826538
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 28.68778705596924
+                },
+                {
+                    "subject": "Economics",
+                    "A": 22.034692764282227
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 29.42417860031128
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "medicine",
+                    "importance": 0.6695253849029541
+                },
+                {
+                    "word": "this",
+                    "importance": 0.6292350888252258
+                },
+                {
+                    "word": "paper",
+                    "importance": 0.6072558164596558
+                },
+                {
+                    "word": "impact",
+                    "importance": 0.5745334029197693
+                },
+                {
+                    "word": "discusses",
+                    "importance": 0.5282623767852783
+                },
+                {
+                    "word": "the",
+                    "importance": 0.33807963132858276
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Psychology"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Biochemistry"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Environmental Science"
+                    },
+                    {
+                        "source": "paper",
+                        "target": "Law & Social Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Intermediate",
+                "score": 65.6,
+                "details": "Requires domain knowledge. Uses specialized methodology and advanced technical vocabulary."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": false,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": null
+            }
+        }
+    },
+    {
+        "text_preview": "Large Language Models (LLMs) have demonstrated remarkable capabilities in various natural language p...",
+        "full_text": "Large Language Models (LLMs) have demonstrated remarkable capabilities in various natural language processing tasks. This study investigates the performance of LLMs in scientific document analysis, focusing on entity extraction and relationship mapping. We propose a new framework that leverages SciBERT to enhance domain-specific understanding.",
+        "timestamp": "2026-03-26T21:50:27.138450",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.756,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 24.17600154876709
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 18.908917903900146
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 22.114944458007812
+                },
+                {
+                    "subject": "Physics",
+                    "A": 17.559123039245605
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 16.934895515441895
+                },
+                {
+                    "subject": "Economics",
+                    "A": 16.325604915618896
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 18.722069263458252
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "bert",
+                    "importance": 0.521989643573761
+                },
+                {
+                    "word": "scientific",
+                    "importance": 0.5134401321411133
+                },
+                {
+                    "word": "domain",
+                    "importance": 0.5122218728065491
+                },
+                {
+                    "word": "sci",
+                    "importance": 0.5086879730224609
+                },
+                {
+                    "word": "and",
+                    "importance": 0.5046218037605286
+                },
+                {
+                    "word": "mapping",
+                    "importance": 0.5036548972129822
+                },
+                {
+                    "word": "framework",
+                    "importance": 0.5036231279373169
+                },
+                {
+                    "word": "understanding",
+                    "importance": 0.5012450218200684
+                },
+                {
+                    "word": "entity",
+                    "importance": 0.5001946091651917
+                },
+                {
+                    "word": "enhance",
+                    "importance": 0.49892279505729675
+                },
+                {
+                    "word": "document",
+                    "importance": 0.4729011058807373
+                },
+                {
+                    "word": "new",
+                    "importance": 0.46903473138809204
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 83.7,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": false,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": null
+            }
+        }
+    },
+    {
+        "text_preview": "Large Language Models (LLMs) have demonstrated remarkable capabilities in various natural language p...",
+        "full_text": "Large Language Models (LLMs) have demonstrated remarkable capabilities in various natural language processing tasks. This study investigates the performance of LLMs in scientific document analysis, focusing on entity extraction and relationship mapping. We propose a new framework that leverages SciBERT to enhance domain-specific understanding.",
+        "timestamp": "2026-03-26T21:48:14.072677",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.756,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 24.17600154876709
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 18.908917903900146
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 22.114944458007812
+                },
+                {
+                    "subject": "Physics",
+                    "A": 17.559123039245605
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 16.934895515441895
+                },
+                {
+                    "subject": "Economics",
+                    "A": 16.325604915618896
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 18.722069263458252
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "bert",
+                    "importance": 0.521989643573761
+                },
+                {
+                    "word": "scientific",
+                    "importance": 0.5134401321411133
+                },
+                {
+                    "word": "domain",
+                    "importance": 0.5122218728065491
+                },
+                {
+                    "word": "sci",
+                    "importance": 0.5086879730224609
+                },
+                {
+                    "word": "and",
+                    "importance": 0.5046218037605286
+                },
+                {
+                    "word": "mapping",
+                    "importance": 0.5036548972129822
+                },
+                {
+                    "word": "framework",
+                    "importance": 0.5036231279373169
+                },
+                {
+                    "word": "understanding",
+                    "importance": 0.5012450218200684
+                },
+                {
+                    "word": "entity",
+                    "importance": 0.5001946091651917
+                },
+                {
+                    "word": "enhance",
+                    "importance": 0.49892279505729675
+                },
+                {
+                    "word": "document",
+                    "importance": 0.4729011058807373
+                },
+                {
+                    "word": "new",
+                    "importance": 0.46903473138809204
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 83.7,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": false,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": null
+            }
+        }
+    },
+    {
+        "text_preview": "The increasing number of research papers\nsubmitted to academic\njournals and\nconferences during the p...",
+        "full_text": "The increasing number of research papers\nsubmitted to academic\njournals and\nconferences during the past few years has\ncreated major difficulties for editorial\nteams because they need to handle more\nsubmissions\nthan\nbefore.\nDirectory\nhandling procedures which require domain\nidentification and plagiarism detection and\ncontent analysis and quality evaluation\nprocesses have become inefficient because\nthey take up too much time and produce\ntoo many mistakes. Accurate domain\nidentification\nis essential\nfor proper\nreviewer\nassignment,\npublication\norganization, and maintaining academic\nstandards.\nThe paper introduces SmartDocAI as a\nsolution to these problems. SmartDocAI\nserves as an advanced tool that helps\neditors during the submission process and\nthe review process of academic article\nassessment. The system uses natural\nlanguage processing techniques and a\ntransformer-based\nlearning\nmodel\nto\nanalyze the abstract and author-provided\nkeywords which it uses to identify the\nmost\nsuitable\nresearch\ndomain.\nSmartDocAI functions as an editorial\ndecision support system by providing\ndomain classification capabilities together\nwith its plagiarism detection system and its\nAI paper summarization tool and its paper\ncomplexity level analysis function.\nThe plagiarism checker evaluates the\noriginality of submitted manuscripts by\ncomparing textual similarity with existing\nresearch\ncontent.\nThe\nsummarization\nmodule creates brief research paper\nsummaries to assist editors and reviewers\nin quickly grasping the main findings of\nresearch work. The complexity level\nanalyzer estimates the technical difficulty\nof a paper based on linguistic structure and\ndomain-specific terminology. SmartDocAI\ndemonstrates accurate classification results\nwhich decrease the need for manual work\naccording to experimental findings. The\nsystem delivers an all-inclusive and\neffective\nsolution\nthat\nmeets\nthe\nrequirements of contemporary academic\npublishing processes.\nINTRODUCTION",
+        "timestamp": "2026-03-26T21:32:25.960318",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.738,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 10.311174392700195
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 10
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 10
+                },
+                {
+                    "subject": "Physics",
+                    "A": 10
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Economics",
+                    "A": 10
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 10.119259357452393
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "directory",
+                    "importance": 0.5267961025238037
+                },
+                {
+                    "word": "and",
+                    "importance": 0.4831171929836273
+                },
+                {
+                    "word": "handling",
+                    "importance": 0.4498024880886078
+                },
+                {
+                    "word": "and",
+                    "importance": 0.4387272000312805
+                },
+                {
+                    "word": "the",
+                    "importance": 0.4352806508541107
+                },
+                {
+                    "word": "terminology",
+                    "importance": 0.4350874125957489
+                },
+                {
+                    "word": "textual",
+                    "importance": 0.43292468786239624
+                },
+                {
+                    "word": "existing",
+                    "importance": 0.43220239877700806
+                },
+                {
+                    "word": "contemporary",
+                    "importance": 0.42408958077430725
+                },
+                {
+                    "word": "assessment",
+                    "importance": 0.4236116409301758
+                },
+                {
+                    "word": "grasping",
+                    "importance": 0.42110398411750793
+                },
+                {
+                    "word": "demonstrates",
+                    "importance": 0.4188629984855652
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 77.9,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": true,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": "Contains standard academic section headers"
+            }
+        }
+    },
+    {
+        "text_preview": "The increasing number of research papers\nsubmitted to academic\njournals and\nconferences during the p...",
+        "full_text": "The increasing number of research papers\nsubmitted to academic\njournals and\nconferences during the past few years has\ncreated major difficulties for editorial\nteams because they need to handle more\nsubmissions\nthan\nbefore.\nDirectory\nhandling procedures which require domain\nidentification and plagiarism detection and\ncontent analysis and quality evaluation\nprocesses have become inefficient because\nthey take up too much time and produce\ntoo many mistakes. Accurate domain\nidentification\nis essential\nfor proper\nreviewer\nassignment,\npublication\norganization, and maintaining academic\nstandards.\nThe paper introduces SmartDocAI as a\nsolution to these problems. SmartDocAI\nserves as an advanced tool that helps\neditors during the submission process and\nthe review process of academic article\nassessment. The system uses natural\nlanguage processing techniques and a\ntransformer-based\nlearning\nmodel\nto\nanalyze the abstract and author-provided\nkeywords which it uses to identify the\nmost\nsuitable\nresearch\ndomain.\nSmartDocAI functions as an editorial\ndecision support system by providing\ndomain classification capabilities together\nwith its plagiarism detection system and its\nAI paper summarization tool and its paper\ncomplexity level analysis function.\nThe plagiarism checker evaluates the\noriginality of submitted manuscripts by\ncomparing textual similarity with existing\nresearch\ncontent.\nThe\nsummarization\nmodule creates brief research paper\nsummaries to assist editors and reviewers\nin quickly grasping the main findings of\nresearch work. The complexity level\nanalyzer estimates the technical difficulty\nof a paper based on linguistic structure and\ndomain-specific terminology. SmartDocAI\ndemonstrates accurate classification results\nwhich decrease the need for manual work\naccording to experimental findings. The\nsystem delivers an all-inclusive and\neffective\nsolution\nthat\nmeets\nthe\nrequirements of contemporary academic\npublishing processes.\nINTRODUCTION",
+        "timestamp": "2026-03-26T21:30:15.653164",
+        "is_comparison": true,
+        "result": {
+            "sciBert": {
+                "domain": "Medical Science",
+                "confidence": 0.738,
+                "radarData": [
+                    {
+                        "subject": "Computer Science",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Medical Science",
+                        "A": 10.311174392700195
+                    },
+                    {
+                        "subject": "Psychology",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Biochemistry",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Physics",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Environmental Science",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Economics",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Law & Social Science",
+                        "A": 10.119259357452393
+                    }
+                ],
+                "keywords": [
+                    {
+                        "word": "directory",
+                        "importance": 0.5267961025238037
+                    },
+                    {
+                        "word": "and",
+                        "importance": 0.4831171929836273
+                    },
+                    {
+                        "word": "handling",
+                        "importance": 0.4498024880886078
+                    },
+                    {
+                        "word": "and",
+                        "importance": 0.4387272000312805
+                    },
+                    {
+                        "word": "the",
+                        "importance": 0.4352806508541107
+                    },
+                    {
+                        "word": "terminology",
+                        "importance": 0.4350874125957489
+                    },
+                    {
+                        "word": "textual",
+                        "importance": 0.43292468786239624
+                    },
+                    {
+                        "word": "existing",
+                        "importance": 0.43220239877700806
+                    },
+                    {
+                        "word": "contemporary",
+                        "importance": 0.42408958077430725
+                    },
+                    {
+                        "word": "assessment",
+                        "importance": 0.4236116409301758
+                    },
+                    {
+                        "word": "grasping",
+                        "importance": 0.42110398411750793
+                    },
+                    {
+                        "word": "demonstrates",
+                        "importance": 0.4188629984855652
+                    }
+                ],
+                "graphData": {
+                    "nodes": [
+                        {
+                            "id": "paper",
+                            "label": "Current Paper",
+                            "color": "#1e293b",
+                            "val": 20
+                        },
+                        {
+                            "id": "Computer Science",
+                            "label": "Computer Science",
+                            "color": "#2563eb",
+                            "val": 15
+                        },
+                        {
+                            "id": "Medical Science",
+                            "label": "Medical Science",
+                            "color": "#dc2626",
+                            "val": 15
+                        },
+                        {
+                            "id": "Psychology",
+                            "label": "Psychology",
+                            "color": "#9333ea",
+                            "val": 15
+                        },
+                        {
+                            "id": "Biochemistry",
+                            "label": "Biochemistry",
+                            "color": "#16a34a",
+                            "val": 15
+                        },
+                        {
+                            "id": "Physics",
+                            "label": "Physics",
+                            "color": "#f59e0b",
+                            "val": 15
+                        },
+                        {
+                            "id": "Environmental Science",
+                            "label": "Environmental Science",
+                            "color": "#10b981",
+                            "val": 15
+                        },
+                        {
+                            "id": "Economics",
+                            "label": "Economics",
+                            "color": "#6366f1",
+                            "val": 15
+                        },
+                        {
+                            "id": "Law & Social Science",
+                            "label": "Law & Social Science",
+                            "color": "#ec4899",
+                            "val": 15
+                        }
+                    ],
+                    "links": [
+                        {
+                            "source": "paper",
+                            "target": "Medical Science"
+                        }
+                    ]
+                },
+                "suggestions": [
+                    {
+                        "title": "Long-itudinal Clinical Trial",
+                        "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                    },
+                    {
+                        "title": "Demographic Stratification",
+                        "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                    }
+                ],
+                "complexity": {
+                    "level": "Expert / PhD",
+                    "score": 77.9,
+                    "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+                },
+                "journals": [
+                    {
+                        "name": "The Lancet",
+                        "impact_factor": "202.7",
+                        "relevance": "Clinical relevance fits trial scope."
+                    },
+                    {
+                        "name": "NEJM",
+                        "impact_factor": "176.1",
+                        "relevance": "High significance in patient outcomes."
+                    },
+                    {
+                        "name": "Nature Medicine",
+                        "impact_factor": "87.2",
+                        "relevance": "Broad translational impact and medical innovation."
+                    }
+                ],
+                "publicationMeta": {
+                    "is_published": true,
+                    "doi": null,
+                    "has_references": false,
+                    "has_copyright": false,
+                    "notes": "Contains standard academic section headers"
+                }
+            },
+            "standardBert": {
+                "domain": "Computer Science",
+                "confidence": 0.759,
+                "radarData": [
+                    {
+                        "subject": "Computer Science",
+                        "A": 24.53620433807373
+                    },
+                    {
+                        "subject": "Medical Science",
+                        "A": 13.972842693328857
+                    },
+                    {
+                        "subject": "Psychology",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Biochemistry",
+                        "A": 12.010884284973145
+                    },
+                    {
+                        "subject": "Physics",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Environmental Science",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Economics",
+                        "A": 10
+                    },
+                    {
+                        "subject": "Law & Social Science",
+                        "A": 10
+                    }
+                ],
+                "keywords": [
+                    {
+                        "word": "learning",
+                        "importance": 0.5203458070755005
+                    },
+                    {
+                        "word": "techniques",
+                        "importance": 0.49842727184295654
+                    },
+                    {
+                        "word": "based",
+                        "importance": 0.4932658076286316
+                    },
+                    {
+                        "word": "processing",
+                        "importance": 0.48270049691200256
+                    },
+                    {
+                        "word": "tool",
+                        "importance": 0.47636958956718445
+                    },
+                    {
+                        "word": "the",
+                        "importance": 0.4761289358139038
+                    },
+                    {
+                        "word": "the",
+                        "importance": 0.4692966938018799
+                    },
+                    {
+                        "word": "model",
+                        "importance": 0.4662284851074219
+                    },
+                    {
+                        "word": "they",
+                        "importance": 0.46112382411956787
+                    },
+                    {
+                        "word": "its",
+                        "importance": 0.4514712691307068
+                    },
+                    {
+                        "word": "analyze",
+                        "importance": 0.45094534754753113
+                    },
+                    {
+                        "word": "natural",
+                        "importance": 0.4484500586986542
+                    }
+                ],
+                "graphData": {
+                    "nodes": [
+                        {
+                            "id": "paper",
+                            "label": "Current Paper",
+                            "color": "#1e293b",
+                            "val": 20
+                        },
+                        {
+                            "id": "Computer Science",
+                            "label": "Computer Science",
+                            "color": "#2563eb",
+                            "val": 15
+                        },
+                        {
+                            "id": "Medical Science",
+                            "label": "Medical Science",
+                            "color": "#dc2626",
+                            "val": 15
+                        },
+                        {
+                            "id": "Psychology",
+                            "label": "Psychology",
+                            "color": "#9333ea",
+                            "val": 15
+                        },
+                        {
+                            "id": "Biochemistry",
+                            "label": "Biochemistry",
+                            "color": "#16a34a",
+                            "val": 15
+                        },
+                        {
+                            "id": "Physics",
+                            "label": "Physics",
+                            "color": "#f59e0b",
+                            "val": 15
+                        },
+                        {
+                            "id": "Environmental Science",
+                            "label": "Environmental Science",
+                            "color": "#10b981",
+                            "val": 15
+                        },
+                        {
+                            "id": "Economics",
+                            "label": "Economics",
+                            "color": "#6366f1",
+                            "val": 15
+                        },
+                        {
+                            "id": "Law & Social Science",
+                            "label": "Law & Social Science",
+                            "color": "#ec4899",
+                            "val": 15
+                        }
+                    ],
+                    "links": [
+                        {
+                            "source": "paper",
+                            "target": "Computer Science"
+                        }
+                    ]
+                },
+                "suggestions": [
+                    {
+                        "title": "Scalability Analysis",
+                        "description": "Investigate how this architecture performs when scaled to petabyte-level distributed datasets."
+                    },
+                    {
+                        "title": "Adversarial Robustness",
+                        "description": "Test the model's resistance against specialized noise injection and gradient-based attacks."
+                    }
+                ],
+                "complexity": {
+                    "level": "Expert / PhD",
+                    "score": 78.8,
+                    "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+                },
+                "journals": [
+                    {
+                        "name": "NeurIPS",
+                        "impact_factor": "0.0",
+                        "relevance": "Premier conference for foundational machine learning and deep learning research."
+                    },
+                    {
+                        "name": "Nature Machine Intelligence",
+                        "impact_factor": "15.5",
+                        "relevance": "Strong focus on novel algorithmic contributions and learning systems."
+                    },
+                    {
+                        "name": "IEEE TPAMI",
+                        "impact_factor": "24.3",
+                        "relevance": "High correlation with advanced ML architecture and computer vision research."
+                    },
+                    {
+                        "name": "CVPR",
+                        "impact_factor": "0.0",
+                        "relevance": "Top-tier venue for computer vision and image understanding."
+                    }
+                ],
+                "publicationMeta": {
+                    "is_published": true,
+                    "doi": null,
+                    "has_references": false,
+                    "has_copyright": false,
+                    "notes": "Contains standard academic section headers"
+                }
+            }
+        }
+    },
+    {
+        "text_preview": "The increasing number of research papers\nsubmitted to academic\njournals and\nconferences during the p...",
+        "full_text": "The increasing number of research papers\nsubmitted to academic\njournals and\nconferences during the past few years has\ncreated major difficulties for editorial\nteams because they need to handle more\nsubmissions\nthan\nbefore.\nDirectory\nhandling procedures which require domain\nidentification and plagiarism detection and\ncontent analysis and quality evaluation\nprocesses have become inefficient because\nthey take up too much time and produce\ntoo many mistakes. Accurate domain\nidentification\nis essential\nfor proper\nreviewer\nassignment,\npublication\norganization, and maintaining academic\nstandards.\nThe paper introduces SmartDocAI as a\nsolution to these problems. SmartDocAI\nserves as an advanced tool that helps\neditors during the submission process and\nthe review process of academic article\nassessment. The system uses natural\nlanguage processing techniques and a\ntransformer-based\nlearning\nmodel\nto\nanalyze the abstract and author-provided\nkeywords which it uses to identify the\nmost\nsuitable\nresearch\ndomain.\nSmartDocAI functions as an editorial\ndecision support system by providing\ndomain classification capabilities together\nwith its plagiarism detection system and its\nAI paper summarization tool and its paper\ncomplexity level analysis function.\nThe plagiarism checker evaluates the\noriginality of submitted manuscripts by\ncomparing textual similarity with existing\nresearch\ncontent.\nThe\nsummarization\nmodule creates brief research paper\nsummaries to assist editors and reviewers\nin quickly grasping the main findings of\nresearch work. The complexity level\nanalyzer estimates the technical difficulty\nof a paper based on linguistic structure and\ndomain-specific terminology. SmartDocAI\ndemonstrates accurate classification results\nwhich decrease the need for manual work\naccording to experimental findings. The\nsystem delivers an all-inclusive and\neffective\nsolution\nthat\nmeets\nthe\nrequirements of contemporary academic\npublishing processes.\nINTRODUCTION",
+        "timestamp": "2026-03-26T21:29:39.205915",
+        "is_comparison": false,
+        "result": {
+            "domain": "Medical Science",
+            "confidence": 0.738,
+            "radarData": [
+                {
+                    "subject": "Computer Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Medical Science",
+                    "A": 10.311174392700195
+                },
+                {
+                    "subject": "Psychology",
+                    "A": 10
+                },
+                {
+                    "subject": "Biochemistry",
+                    "A": 10
+                },
+                {
+                    "subject": "Physics",
+                    "A": 10
+                },
+                {
+                    "subject": "Environmental Science",
+                    "A": 10
+                },
+                {
+                    "subject": "Economics",
+                    "A": 10
+                },
+                {
+                    "subject": "Law & Social Science",
+                    "A": 10.119259357452393
+                }
+            ],
+            "keywords": [
+                {
+                    "word": "directory",
+                    "importance": 0.5267961025238037
+                },
+                {
+                    "word": "and",
+                    "importance": 0.4831171929836273
+                },
+                {
+                    "word": "handling",
+                    "importance": 0.4498024880886078
+                },
+                {
+                    "word": "and",
+                    "importance": 0.4387272000312805
+                },
+                {
+                    "word": "the",
+                    "importance": 0.4352806508541107
+                },
+                {
+                    "word": "terminology",
+                    "importance": 0.4350874125957489
+                },
+                {
+                    "word": "textual",
+                    "importance": 0.43292468786239624
+                },
+                {
+                    "word": "existing",
+                    "importance": 0.43220239877700806
+                },
+                {
+                    "word": "contemporary",
+                    "importance": 0.42408958077430725
+                },
+                {
+                    "word": "assessment",
+                    "importance": 0.4236116409301758
+                },
+                {
+                    "word": "grasping",
+                    "importance": 0.42110398411750793
+                },
+                {
+                    "word": "demonstrates",
+                    "importance": 0.4188629984855652
+                }
+            ],
+            "graphData": {
+                "nodes": [
+                    {
+                        "id": "paper",
+                        "label": "Current Paper",
+                        "color": "#1e293b",
+                        "val": 20
+                    },
+                    {
+                        "id": "Computer Science",
+                        "label": "Computer Science",
+                        "color": "#2563eb",
+                        "val": 15
+                    },
+                    {
+                        "id": "Medical Science",
+                        "label": "Medical Science",
+                        "color": "#dc2626",
+                        "val": 15
+                    },
+                    {
+                        "id": "Psychology",
+                        "label": "Psychology",
+                        "color": "#9333ea",
+                        "val": 15
+                    },
+                    {
+                        "id": "Biochemistry",
+                        "label": "Biochemistry",
+                        "color": "#16a34a",
+                        "val": 15
+                    },
+                    {
+                        "id": "Physics",
+                        "label": "Physics",
+                        "color": "#f59e0b",
+                        "val": 15
+                    },
+                    {
+                        "id": "Environmental Science",
+                        "label": "Environmental Science",
+                        "color": "#10b981",
+                        "val": 15
+                    },
+                    {
+                        "id": "Economics",
+                        "label": "Economics",
+                        "color": "#6366f1",
+                        "val": 15
+                    },
+                    {
+                        "id": "Law & Social Science",
+                        "label": "Law & Social Science",
+                        "color": "#ec4899",
+                        "val": 15
+                    }
+                ],
+                "links": [
+                    {
+                        "source": "paper",
+                        "target": "Medical Science"
+                    }
+                ]
+            },
+            "suggestions": [
+                {
+                    "title": "Long-itudinal Clinical Trial",
+                    "description": "A 5-year follow-up study to determine long-term therapeutic safety and patient recovery rates."
+                },
+                {
+                    "title": "Demographic Stratification",
+                    "description": "Analyze if the treatment efficacy varies across different age groups and genetic backgrounds."
+                }
+            ],
+            "complexity": {
+                "level": "Expert / PhD",
+                "score": 77.9,
+                "details": "Highly technical paper with deep mathematical or molecular density. Suitable for peer researchers."
+            },
+            "journals": [
+                {
+                    "name": "The Lancet",
+                    "impact_factor": "202.7",
+                    "relevance": "Clinical relevance fits trial scope."
+                },
+                {
+                    "name": "NEJM",
+                    "impact_factor": "176.1",
+                    "relevance": "High significance in patient outcomes."
+                },
+                {
+                    "name": "Nature Medicine",
+                    "impact_factor": "87.2",
+                    "relevance": "Broad translational impact and medical innovation."
+                }
+            ],
+            "publicationMeta": {
+                "is_published": true,
+                "doi": null,
+                "has_references": false,
+                "has_copyright": false,
+                "notes": "Contains standard academic section headers"
+            }
+        }
+    },
+    {
         "text_preview": "Waste management has become a major challenge in modern cities due to rapid urbanization and increas...",
         "full_text": "Waste management has become a major challenge in modern cities due to rapid urbanization and increasing population. Traditional waste collection systems often lead to overflowing bins, environmental pollution, and inefficient use of resources. To address this issue, this project proposes a Smart Waste Management System using Internet of Things (IoT) and Machine Learning techniques.\n\nThe system uses IoT sensors placed inside waste bins to monitor the waste level in real time. When the bin reaches a certain threshold, the sensor sends data to a cloud server. The collected data is analyzed using machine learning algorithms to predict waste generation patterns and optimize waste collection routes.\n\nThis interdisciplinary approach integrates computer science for data processing, electronics for sensor-based monitoring, and environmental science for sustainable waste management. The proposed system helps municipalities reduce operational costs, improve waste collection efficiency, and maintain cleaner urban environments.",
         "timestamp": "2026-03-14T14:19:02.445897",

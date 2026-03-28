@@ -121,7 +121,7 @@ def extract_sections_from_text(text: str) -> dict:
     }
 
 
-def summarize_text(text: str, mode: str = "plain") -> str:
+async def summarize_text(text: str, mode: str = "plain") -> str:
     """Summarize text using Gemini if available, otherwise fallback to extractive summarization."""
     api_key = os.getenv("GEMINI_API_KEY")
     if api_key:
@@ -136,7 +136,7 @@ def summarize_text(text: str, mode: str = "plain") -> str:
             Text:
             {text[:3000]}
             """
-            response = model.generate_content(prompt)
+            response = await model.generate_content_async(prompt)
             return response.text.strip()
         except Exception:
             pass

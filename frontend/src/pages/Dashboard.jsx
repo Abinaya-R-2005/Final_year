@@ -307,6 +307,9 @@ const Dashboard = () => {
                                                         <InterdisciplinaryChart data={result.radarData} />
                                                     </div>
                                                 </div>
+                                                <div className="mt-12">
+                                                    <ResearchAssistant suggestions={result.suggestions} paperText={currentText} fullText={currentFullText} />
+                                                </div>
                                                 <div className="text-center py-4">
                                                     <p className="text-slate-400 font-black text-[10px] uppercase tracking-[0.3em] animate-pulse">Select a module above for deep intelligence</p>
                                                 </div>
@@ -349,13 +352,8 @@ const Dashboard = () => {
                                                 )}
 
                                                 {visibleInsight === 'graph' && (
-                                                    <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
-                                                        <div className="lg:col-span-8">
-                                                            <KnowledgeMap data={result.graphData} />
-                                                        </div>
-                                                        <div className="lg:col-span-4">
-                                                            <ResearchAssistant suggestions={result.suggestions} paperText={currentText} fullText={currentFullText} />
-                                                        </div>
+                                                    <div className="w-full">
+                                                        <KnowledgeMap data={result.graphData} />
                                                     </div>
                                                 )}
 
@@ -370,16 +368,17 @@ const Dashboard = () => {
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                                         <div className="space-y-8">
                                             <ResultCard result={result.sciBert} title="SciBERT" />
-                                            <ResearchAssistant suggestions={result.sciBert.suggestions} paperText={currentText} fullText={currentFullText} />
                                         </div>
                                         <div className="space-y-8">
                                             <ResultCard result={result.standardBert} title="Standard BERT" />
-                                            <ResearchAssistant suggestions={result.standardBert.suggestions} paperText={currentText} fullText={currentFullText} />
                                         </div>
                                     </div>
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8 h-[500px]">
                                         <KnowledgeMap data={result.sciBert.graphData} />
                                         <KnowledgeMap data={result.standardBert.graphData} />
+                                    </div>
+                                    <div className="mt-12">
+                                        <ResearchAssistant suggestions={result.sciBert.suggestions} paperText={currentText} fullText={currentFullText} />
                                     </div>
                                 </div>
                             )}
